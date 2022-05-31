@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="sdet34l1_Dummy_Framework.project1_1Test">
+        <methods>
+          <include name="afterClass1Test"/>
+          <include name="beforeClass1Test"/>
+          <include name="beforeMethod1Test"/>
+          <include name="afterSuite1Test"/>
+          <include name="project1"/>
+          <include name="beforesuite1test"/>
+        </methods>
+      </class> <!-- sdet34l1_Dummy_Framework.project1_1Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
