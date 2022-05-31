@@ -3,16 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="sdet34l1_Dummy_Framework.project1_1Test">
+      <class name="sdet34l1_Dummy_Framework.CreateContactReadDataFromPropertyfileTest">
         <methods>
-          <include name="afterClass1Test"/>
-          <include name="beforeClass1Test"/>
-          <include name="beforeMethod1Test"/>
-          <include name="afterSuite1Test"/>
-          <include name="project1"/>
-          <include name="beforesuite1test"/>
+          <include name="practice1"/>
         </methods>
-      </class> <!-- sdet34l1_Dummy_Framework.project1_1Test -->
+      </class> <!-- sdet34l1_Dummy_Framework.CreateContactReadDataFromPropertyfileTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
